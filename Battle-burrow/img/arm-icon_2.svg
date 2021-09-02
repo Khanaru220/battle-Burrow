@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="35px" viewBox="0 0 24 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Arch Arm</title>
+    <desc>Created with Sketch.</desc>
+    <g id="PDP-HiFi" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-PDP-Configurator" transform="translate(-1056.000000, -475.000000)">
+            <rect fill="#FFFFFF" x="0" y="0" width="1440" height="842"></rect>
+            <g id="ARM-STYLES" transform="translate(1055.000000, 446.000000)">
+                <g id="Arch-Arm" transform="translate(0.000000, 28.000000)">
+                    <rect id="ARCH-ON" fill="#FFFFFF" x="0" y="0" width="26" height="37" rx="2"></rect>
+                    <path d="M6,32 L6,10.7586207 C6,7.02593755 9.13400675,4 13,4 C16.8659932,4 20,7.02593755 20,10.7586207 L20,32 L20,32" id="Path-Outline" stroke="#B2B2B4" fill="#FFFFFF"></path>
+                    <path d="M8,32 L8,10.8275862 C8,8.16138397 10.2385763,6 13,6 C15.7614237,6 18,8.16138397 18,10.8275862 L18,26 L18,32 L8,32 Z" id="Path" fill="#D1D0D0"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

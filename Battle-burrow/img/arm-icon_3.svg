@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="35px" viewBox="0 0 24 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Block Arm</title>
+    <desc>Created with Sketch.</desc>
+    <g id="PDP-HiFi" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-PDP-Configurator" transform="translate(-1090.000000, -475.000000)">
+            <rect fill="#FFFFFF" x="0" y="0" width="1440" height="842"></rect>
+            <g id="ARM-STYLES" transform="translate(1055.000000, 446.000000)">
+                <g id="Block-Arm" transform="translate(34.000000, 28.000000)">
+                    <rect id="BLOCK-ON" fill="#FFFFFF" x="0" y="0" width="26" height="37" rx="2"></rect>
+                    <path d="M4,32 L4,10.9166667 C4,9.8581209 4.8954305,9 6,9 L20,9 C21.1045695,9 22,9.8581209 22,10.9166667 L22,32" id="Path" stroke="#B2B2B4" fill="#FFFFFF" stroke-linejoin="round"></path>
+                    <path d="M6,32 L6,12.5 C6,11.6715729 6.69644594,11 7.55555556,11 L18.4444444,11 C19.3035541,11 20,11.6715729 20,12.5 L20,32 L6,32 Z" id="Inside-Path" fill="#D1D0D0"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
