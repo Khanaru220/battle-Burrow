@@ -7,7 +7,7 @@ Clone practice -- HTML/CSS/small JS
 
 https://user-images.githubusercontent.com/74447462/131851082-d9a2bbf4-4f4c-45dd-bb0a-057a62fe3ace.mp4
 ## Copyright audio: 
-Smoking Guns - Royalty-Free Music by https://audiohub.com
+Rough draft - Royalty-Free Music by https://audiohub.com
 
 ## Learn
 - forget that align-self can apply to grid thank you MT
