@@ -14,7 +14,7 @@ Rough draft - Royalty-Free Music by https://audiohub.com
 - create inside a modal-blur beneath modal-content -- to capture click outside
 
 ## Practice
-
+- use rem, em
 - use grid  
 - use tag: select -- option
 - Use background-image, for complicated illustration (like "?" icon), can take advantage of background-size, not need to know specific property of illustration itself (technique put element illustration on an address so that we can import it through url())  
