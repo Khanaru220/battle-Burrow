@@ -35,6 +35,7 @@ Rough draft - Royalty-Free Music by https://audiohub.com
 - linear gradient 2 color, with 50%, deg (confuse -.-)
 - min-width (but don't how different with max-width;)
 - Edit video, add effect Fade in/out, render, embed audio
+- Deploy on Netify: https://peaceful-feynman-d71b6a.netlify.app/ (had struggle with Public Directory)
 
 ## Lack of:
 - Not control placing grid items if we write full list of <span> then a list of <input> --> they display with HTML flow not side-by-side as we want (so we temporary fix by edit order in HTML)
