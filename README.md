@@ -1,8 +1,11 @@
 # -Battle-Burrow
-https://burrow.com/nomad-fabric/king-sofa-chaise?sku=NSC-IV-4-LO-CM&tufted=UT&pickAPillow=NAC-4-LB&sleepkit=ALRSK-OSGR01  
-Clone practice -- HTML/CSS/small JS
+>Clone practice -- HTML/CSS/small JS
+>https://burrow.com/nomad-fabric/king-sofa-chaise?sku=NSC-IV-4-LO-CM&tufted=UT&pickAPillow=NAC-4-LB&sleepkit=ALRSK-OSGR01  
 
 
+------------
+
+_(Not kidding. Where's my headphone? 🗿)_
 
 
 https://user-images.githubusercontent.com/74447462/131851082-d9a2bbf4-4f4c-45dd-bb0a-057a62fe3ace.mp4
