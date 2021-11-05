@@ -8,9 +8,12 @@
 _(Not kidding. Where's my headphone? 🗿)_
 
 
-https://user-images.githubusercontent.com/74447462/131851082-d9a2bbf4-4f4c-45dd-bb0a-057a62fe3ace.mp4
-## Copyright audio: 
-Rough draft - Royalty-Free Music by https://audiohub.com
+
+https://user-images.githubusercontent.com/74447462/140474106-66335d65-2730-4a58-ad28-983c60130e40.mp4
+
+
+## Credit audio: 
+**Overdrive Ride** - Dan Lebowitz from YoutubeLibrary
 
 ## Learn
 - forget that align-self can apply to grid thank you MT
