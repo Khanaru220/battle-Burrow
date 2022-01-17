@@ -15,6 +15,8 @@ https://user-images.githubusercontent.com/74447462/140474106-66335d65-2730-4a58-
 ## Credit audio: 
 **Overdrive Ride** - Dan Lebowitz from YoutubeLibrary
 
+[Clone practice] HTML/CSS/small JS. First battle I try video editor + audio
+
 ## Learn
 - forget that align-self can apply to grid thank you MT
 - create inside a modal-blur beneath modal-content -- to capture click outside
